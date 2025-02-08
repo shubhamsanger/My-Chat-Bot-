@@ -63,7 +63,12 @@ body {
     padding: 10px;
     border-radius: 10px;
 }
-
+.footer {
+    text-align: center; /* Center the text */
+    margin-top: 200px; /* Add some space above */
+    font-weight: bold; /* Make the text bold */
+    color: red; /* Set the text color to red */
+}
 #input-form {
     display: flex;
     border-top: 1px solid #ccc;
